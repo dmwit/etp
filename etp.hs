@@ -1,7 +1,6 @@
 import Codec.MIME.Parse
 import Codec.MIME.Type
 import Data.Text (Text, pack)
-import Data.Tree
 import GHC.IO.Encoding
 import System.Environment
 import System.Exit
